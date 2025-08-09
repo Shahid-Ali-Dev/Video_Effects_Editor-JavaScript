@@ -46,18 +46,3 @@ cd video-effects-editor
 # Install dependencies
 npm install
 
-video-effects-editor/
-│
-├── public/                # Static assets
-├── src/
-│   ├── App.js              # Main app component
-│   ├── App.css             # Styles
-│   ├── index.js            # Entry point
-│   └── components/         # Reusable UI components
-│
-├── package.json
-└── README.md
-
-
-# Start the development server
-npm start
